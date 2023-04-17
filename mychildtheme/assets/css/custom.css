@@ -1,0 +1,131 @@
+
+#header  {
+background-color:#232F3E;
+font-family: "'Roboto', sans-serif";
+font-weight: 500 !important;
+/* text-transform: uppercase; */
+}
+
+
+#header .header-nav #_desktop_contact_link {
+    color: white;
+    font-weight: 500;
+}
+
+.dropdown .expand-more {
+    color: white;
+}
+
+
+#header .header-nav .material-icons {
+    color: white;
+    font-weight: 500;
+}
+
+
+#header .header-nav .cart-preview .shopping-cart {
+    color:white;
+    font-weight: 500;
+}
+
+#header a {
+    color: white;
+    font-weight: 500;
+
+}
+
+#header .header-nav .user-info a {
+    color: white !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color:#EC1E00 !important;
+}
+
+#header .header-nav .blockcart {
+    background-color:#232F3E ;
+    color:white;
+    font-weight: 500;
+}
+
+
+#header a {
+    color: black;
+}
+#header a:hover {
+    color: #EC1E00 !important; 
+}
+
+.block-categories {
+    background-color: #F5F5F5;
+}
+
+.block-categories {
+    border-style: solid;
+    border-color: darkgray;
+}
+
+
+.btn-primary {
+    background-color: #EC1E00;
+}
+
+.btn-primary:hover {
+   background-color: #d21f04 !important;
+}
+
+.product-miniature .product-price-and-shipping {
+    color:#FF3C20;
+}
+
+.product-price {
+    color: #FF3C20;
+}
+
+.tabs .nav-tabs .nav-link.active {
+    color: #EC1E00;
+    border-bottom: #EC1E00 3px solid;
+}
+
+.product-images>li.thumb-container>.thumb.selected, .product-images>li.thumb-container>.thumb:hover {
+    border: #EC1E00 3px solid;
+
+}
+
+.facebook .icon-gray:hover {
+    color: red !important;
+    text-decoration: underline;
+}
+
+.block-social ul li a:focus {
+    color:#EC1E00;
+}
+
+
+.js-footer .news_letters {
+   background-color: #232F3E;
+   padding-top: 1.5rem;
+}
+
+.block_newsletter {
+    background-color: #232F3E;
+    color:white;
+}
+
+#footer .block_newsletter #block-newsletter-label {
+    color: white;
+}
+
+#footer .block_newsletter p, #footer .block_newsletter .page-content.page-cms ul, .page-content.page-cms #footer .block_newsletter ul {
+    color: white;
+}
+
+.footer-container .h3, .footer-container .h4 {
+    width: 90%;
+    border-bottom:  #EC1E00 2px solid;
+    height: 1.5rem;
+}
+
+.block-social ul li:hover{background-color:#EC1E00}
+
