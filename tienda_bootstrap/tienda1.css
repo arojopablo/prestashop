@@ -1,0 +1,53 @@
+.listadoEnlaces ul {
+    color: rgb(113, 113, 248);    
+list-style: none;
+line-height: 2rem ;
+
+}
+
+.listadoEnlaces a
+ {
+    text-decoration: none;
+    color: grey;
+    
+}
+
+    a:hover{
+    text-decoration:underline
+    }
+
+    .listadoCategorias ul {
+    color: rgb(113, 113, 248);    
+    list-style: none;
+    line-height: 2rem;
+    }
+    
+    .listadoCategorias a
+     {
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: rgb(20, 20, 20);
+    }
+    
+        a:hover{
+        text-decoration:underline;
+        }
+    
+    .aMenu {
+        font-size: 1.3rem;
+    }
+
+    .carritoCompras {
+        border: solid ;
+        border-color: #0D6EFD;
+        padding: 10px;
+        width: 60%;
+        border-radius: 10px;
+    }
+
+    .oferta:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+   
